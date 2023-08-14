@@ -15,3 +15,10 @@ The heart of this project lies in text classification and sentiment analysis. I 
 
 Knowledge Graph Visualization:
 Another exciting aspect of the project is the creation of a knowledge graph using NetworkX. The graph beautifully represents the relationships between printer models, problems, and factors, helping HP quickly identify key insights and areas for improvement.
+
+
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
